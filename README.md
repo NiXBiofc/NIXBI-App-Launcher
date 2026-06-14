@@ -12,8 +12,8 @@ A lightweight, customizable application launcher for Windows with a modern dark 
 - Portable - single exe file
 
 ## Download
--https://github.com/NiXBiofc/NIXBI-App-Launcher
--https://t.me/NiXBi_ofc_releases
+- https://github.com/NiXBiofc/NIXBI-App-Launcher
+- https://t.me/NiXBi_ofc_releases
 
 ## Requirements
 - Windows 10/11
