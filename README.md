@@ -13,7 +13,7 @@ A lightweight, customizable application launcher for Windows with a modern dark 
 
 ## Download
 - https://github.com/NiXBiofc/NIXBI-App-Launcher
-- https://t.me/NiXBi_ofc_releases
+- for the .exe app: https://t.me/NiXBi_ofc_releases
 
 ## Requirements
 - Windows 10/11
